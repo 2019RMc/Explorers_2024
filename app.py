@@ -17,12 +17,18 @@ JOBS = [
   },
   {
     'id': 3,
-    'title': 'Frontend Engineer',
+    'title': 'Frontend Engineers',
     'location': 'Remote'
   },
   {
     'id': 4,
     'title': 'Backend Engineer',
+    'location': 'San Francisco, USA',
+    'salary': '$150,000'
+  },
+  {
+    'id': 5,
+    'title': 'rearend Engineer',
     'location': 'San Francisco, USA',
     'salary': '$150,000'
   }
